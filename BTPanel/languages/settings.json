@@ -26,6 +26,12 @@
             "cn": "法语"
         },
         {
+            "name": "it",
+            "google": "it",
+            "title": "Italian",
+            "cn": "意大利语"
+        },
+        {
             "name": "spa",
             "google": "es",
             "title": "Español",
